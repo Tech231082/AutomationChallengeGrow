@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45912" started-at="2020-01-27T13:24:55 MST" finished-at="2020-01-27T13:25:41 MST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45912" started-at="2020-01-27T13:24:55 MST" finished-at="2020-01-27T13:25:41 MST">
+      <class name="com.qa.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.HomePageTest@17f6480]" name="setUp" is-config="true" duration-ms="22034" started-at="2020-01-27T13:24:55 MST" finished-at="2020-01-27T13:25:17 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSalesByMonthMetricNotExpendedTest()[pri:1, instance:com.qa.testCases.HomePageTest@17f6480]" name="validateSalesByMonthMetricNotExpendedTest" duration-ms="81" started-at="2020-01-27T13:25:17 MST" finished-at="2020-01-27T13:25:17 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSalesByMonthMetricNotExpendedTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.HomePageTest@17f6480]" name="tearDown" is-config="true" duration-ms="762" started-at="2020-01-27T13:25:17 MST" finished-at="2020-01-27T13:25:18 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.HomePageTest@17f6480]" name="setUp" is-config="true" duration-ms="20833" started-at="2020-01-27T13:25:18 MST" finished-at="2020-01-27T13:25:39 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCloseExpendedViewTest()[pri:2, instance:com.qa.testCases.HomePageTest@17f6480]" name="validateCloseExpendedViewTest" duration-ms="1334" started-at="2020-01-27T13:25:39 MST" finished-at="2020-01-27T13:25:40 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCloseExpendedViewTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.HomePageTest@17f6480]" name="tearDown" is-config="true" duration-ms="827" started-at="2020-01-27T13:25:40 MST" finished-at="2020-01-27T13:25:41 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testCases.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

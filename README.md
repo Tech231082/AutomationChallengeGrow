@@ -9,4 +9,4 @@
 - `mvn clean install` to install depndecy and run
 
 ### Screen record
-![](https://github.com/Tech231082/AutomationChallengeGrow/blob/master/AutomationTestRun_edit_0.gif
+![move-demo](https://github.com/Tech231082/AutomationChallengeGrow/blob/master/AutomationTestRun_edit_0.gif)
